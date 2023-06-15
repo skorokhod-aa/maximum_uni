@@ -36,3 +36,7 @@ for sym in s:
 print(syms_counter)
 
 print('hello!')
+
+print('hi!')
+
+print('hello world!')
